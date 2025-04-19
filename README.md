@@ -1,1 +1,1 @@
-# Email_Campaign_case_study
+# Email Campaign-Case Study
