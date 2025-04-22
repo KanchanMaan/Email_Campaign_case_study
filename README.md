@@ -8,17 +8,3 @@ A concise end‑to‑end Python pipeline to analyze, model, and optimize an emai
 - **A/B Testing**: Simulation, group assignment, and statistical validation framework.  
 - **Segment Insights**: Impact of email length (long vs. short), personalization, and purchase history.
 
-## Quick Start
-```bash
-git clone https://github.com/your_org/email-campaign-optimization.git
-cd email-campaign-optimization
-pip install -r requirements.txt
-
-# Compute baseline metrics
-python src/data_loading.py
-
-# Train & evaluate models
-python src/modeling.py
-
-# Simulate A/B test & measure uplift
-python src/ab_test_simulation.py
